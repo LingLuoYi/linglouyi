@@ -1,0 +1,457 @@
+[INFO ] 2020-01-16 12:37:19 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 8154 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 12:37:19 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 12:37:19 [main] org.eclipse.jetty.util.log - Logging initialized @1798ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 12:37:19 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 12:37:19 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 12:37:19 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 12:37:19 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 876 ms
+[INFO ] 2020-01-16 12:37:19 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 12:37:19 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 12:37:19 [main] org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+[INFO ] 2020-01-16 12:37:19 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@622ef26a{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.1042474035581719245.8080/],AVAILABLE}
+[INFO ] 2020-01-16 12:37:19 [main] org.eclipse.jetty.server.Server - Started @1974ms
+[INFO ] 2020-01-16 12:37:19 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 12:37:19 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 12:37:19 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 12:37:19 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-01-16 12:37:19 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@2c715e84{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 12:37:19 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 12:37:19 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 1.768 seconds (JVM running for 2.291)
+[INFO ] 2020-01-16 12:37:19 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 12:37:19 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2c715e84{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 12:37:19 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 12:37:19 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 12:37:19 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@622ef26a{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.1042474035581719245.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 17:16:05 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 8863 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 17:16:05 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 17:16:05 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 17:16:05 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+[INFO ] 2020-01-16 17:16:05 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 17:16:05 [main] org.eclipse.jetty.util.log - Logging initialized @1987ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 17:16:05 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 17:16:05 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 17:16:05 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 17:16:05 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 844 ms
+[INFO ] 2020-01-16 17:16:05 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 17:16:05 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 17:16:05 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 17:16:05 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@4cdd2c73{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.5153216533117164362.8080/],AVAILABLE}
+[INFO ] 2020-01-16 17:16:05 [main] org.eclipse.jetty.server.Server - Started @2150ms
+[INFO ] 2020-01-16 17:16:05 [main] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 17:16:05 [main] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@4cdd2c73{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.5153216533117164362.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 17:16:05 [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[INFO ] 2020-01-16 17:19:45 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 8901 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 17:19:45 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 17:19:45 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 17:19:45 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+[INFO ] 2020-01-16 17:19:45 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 17:19:45 [main] org.eclipse.jetty.util.log - Logging initialized @2056ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 17:19:45 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 17:19:45 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 17:19:45 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 17:19:45 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1183 ms
+[INFO ] 2020-01-16 17:19:45 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 17:19:45 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 17:19:45 [main] org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+[INFO ] 2020-01-16 17:19:45 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@44c5a16f{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.6607162836413181857.8080/],AVAILABLE}
+[INFO ] 2020-01-16 17:19:45 [main] org.eclipse.jetty.server.Server - Started @2259ms
+[INFO ] 2020-01-16 17:19:45 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 17:19:45 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 17:19:45 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 17:19:45 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 17:19:45 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 17:19:45 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 2020-01-16 17:19:45 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 17:19:45 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:19:45 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 17:19:45 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:19:45 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:19:45 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+[INFO ] 2020-01-16 17:19:45 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@4a60ee36{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 17:19:45 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 17:19:45 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 2.896 seconds (JVM running for 3.387)
+[INFO ] 2020-01-16 17:19:45 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 17:19:45 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:19:45 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 17:19:45 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 17:19:45 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4a60ee36{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 17:19:45 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 17:19:45 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:19:45 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@44c5a16f{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.6607162836413181857.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 17:35:02 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 8942 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 17:35:02 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 17:35:02 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 17:35:02 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 47ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 17:35:02 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 17:35:02 [main] org.eclipse.jetty.util.log - Logging initialized @1971ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 17:35:02 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 17:35:02 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 17:35:02 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 17:35:02 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 838 ms
+[INFO ] 2020-01-16 17:35:02 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 17:35:02 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 17:35:02 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 17:35:02 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@652ce654{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.8409005682870543861.8080/],AVAILABLE}
+[INFO ] 2020-01-16 17:35:02 [main] org.eclipse.jetty.server.Server - Started @2120ms
+[INFO ] 2020-01-16 17:35:02 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 17:35:02 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 17:35:02 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 17:35:02 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 17:35:02 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 17:35:02 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 2020-01-16 17:35:02 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 17:35:02 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:35:02 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:35:02 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 17:35:02 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 17:35:02 [main] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 17:35:02 [main] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@652ce654{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.8409005682870543861.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 17:35:02 [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[INFO ] 2020-01-16 17:35:09 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 8951 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 17:35:09 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 17:35:09 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 17:35:09 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 43ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 17:35:09 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 17:35:09 [main] org.eclipse.jetty.util.log - Logging initialized @1730ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 17:35:09 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 17:35:09 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 17:35:09 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 17:35:09 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 934 ms
+[INFO ] 2020-01-16 17:35:09 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 17:35:09 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 17:35:09 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 17:35:09 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@6a2eea2a{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.6503910448937370179.8080/],AVAILABLE}
+[INFO ] 2020-01-16 17:35:09 [main] org.eclipse.jetty.server.Server - Started @1895ms
+[INFO ] 2020-01-16 17:35:09 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 17:35:09 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 17:35:09 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 17:35:09 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 17:35:09 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 17:35:09 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 2020-01-16 17:35:09 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 17:35:09 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:35:09 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 17:35:09 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:35:09 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:35:09 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-01-16 17:35:09 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@55ea2d70{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 17:35:09 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 17:35:09 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 3.068 seconds (JVM running for 3.503)
+[INFO ] 2020-01-16 17:35:09 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 17:35:09 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:35:09 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 17:35:09 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 17:35:09 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@55ea2d70{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 17:35:09 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 17:35:09 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:35:09 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@6a2eea2a{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.6503910448937370179.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 17:38:12 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 8971 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 17:38:12 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 17:38:12 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 17:38:12 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 17:38:12 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 17:38:12 [main] org.eclipse.jetty.util.log - Logging initialized @1708ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 17:38:12 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 17:38:12 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 17:38:12 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 17:38:12 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 858 ms
+[INFO ] 2020-01-16 17:38:12 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 17:38:12 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 17:38:12 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 17:38:12 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@57adfab0{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.4136937150689941089.8080/],AVAILABLE}
+[INFO ] 2020-01-16 17:38:12 [main] org.eclipse.jetty.server.Server - Started @1881ms
+[INFO ] 2020-01-16 17:38:12 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 17:38:12 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 17:38:12 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 17:38:12 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 17:38:12 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 17:38:12 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-01-16 17:38:12 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 17:38:12 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:38:12 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 17:38:12 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:38:12 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:38:12 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-01-16 17:38:12 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@4b1c0397{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 17:38:12 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 17:38:12 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 2.851 seconds (JVM running for 3.395)
+[INFO ] 2020-01-16 17:38:12 [qtp1869177530-45] org.eclipse.jetty.util.TypeUtil - JVM Runtime does not support Modules
+[INFO ] 2020-01-16 17:38:12 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 17:38:12 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:38:12 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 17:38:12 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 17:38:12 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4b1c0397{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 17:38:12 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 17:38:12 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:38:12 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@57adfab0{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.4136937150689941089.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 17:44:51 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 9022 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 17:44:51 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 17:44:51 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 17:44:51 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 39ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 17:44:51 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 17:44:51 [main] org.eclipse.jetty.util.log - Logging initialized @1908ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 17:44:51 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 17:44:51 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 17:44:51 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 17:44:51 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 874 ms
+[INFO ] 2020-01-16 17:44:51 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 17:44:51 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 17:44:51 [main] org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+[INFO ] 2020-01-16 17:44:51 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@30506c0d{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.2760090327233566439.8080/],AVAILABLE}
+[INFO ] 2020-01-16 17:44:51 [main] org.eclipse.jetty.server.Server - Started @2074ms
+[INFO ] 2020-01-16 17:44:51 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 17:44:51 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 17:44:51 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 17:44:51 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 17:44:51 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 17:44:51 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-01-16 17:44:51 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 17:44:51 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:44:51 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 17:44:51 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:44:51 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:44:51 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-01-16 17:44:51 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@1a411233{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 17:44:51 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 17:44:51 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 2.84 seconds (JVM running for 3.496)
+[INFO ] 2020-01-16 17:44:51 [qtp1179272258-45] org.eclipse.jetty.util.TypeUtil - JVM Runtime does not support Modules
+[INFO ] 2020-01-16 17:44:51 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 17:44:51 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 17:44:51 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 17:44:51 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 17:44:51 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1a411233{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 17:44:51 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 17:44:51 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 17:44:51 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@30506c0d{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.2760090327233566439.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 18:30:18 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 9358 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 18:30:18 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 18:30:18 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 18:30:18 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 37ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 18:30:18 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 18:30:18 [main] org.eclipse.jetty.util.log - Logging initialized @1983ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 18:30:18 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 18:30:18 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 18:30:18 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 18:30:18 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 851 ms
+[INFO ] 2020-01-16 18:30:18 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 18:30:18 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 18:30:18 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 18:30:18 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@5c645b43{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.1028706605642946042.8080/],AVAILABLE}
+[INFO ] 2020-01-16 18:30:18 [main] org.eclipse.jetty.server.Server - Started @2150ms
+[INFO ] 2020-01-16 18:30:18 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 18:30:18 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 18:30:18 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 18:30:18 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 18:30:18 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 18:30:18 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-01-16 18:30:18 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 18:30:18 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:30:18 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:30:18 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:30:18 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:30:18 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+[INFO ] 2020-01-16 18:30:18 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@4565a70a{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:30:18 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 18:30:18 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 3.1 seconds (JVM running for 3.852)
+[INFO ] 2020-01-16 18:30:18 [qtp1265287441-46] org.eclipse.jetty.util.TypeUtil - JVM Runtime does not support Modules
+[INFO ] 2020-01-16 18:30:18 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:30:18 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:30:18 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 18:30:18 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 18:30:18 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4565a70a{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:30:18 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 18:30:18 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:30:18 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@5c645b43{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.1028706605642946042.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 18:34:23 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 9373 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 18:34:23 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 18:34:23 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 18:34:23 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 18:34:23 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 18:34:23 [main] org.eclipse.jetty.util.log - Logging initialized @1720ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 18:34:23 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 18:34:23 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 18:34:23 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 18:34:23 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 910 ms
+[INFO ] 2020-01-16 18:34:23 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 18:34:23 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 18:34:23 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 18:34:23 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@15fb7a32{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.5485257120758296849.8080/],AVAILABLE}
+[INFO ] 2020-01-16 18:34:23 [main] org.eclipse.jetty.server.Server - Started @1887ms
+[INFO ] 2020-01-16 18:34:23 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 18:34:23 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 18:34:23 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 18:34:23 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 18:34:23 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 18:34:23 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-01-16 18:34:23 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 18:34:23 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:34:23 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:34:23 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:34:23 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:34:23 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-01-16 18:34:23 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@a567e72{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:34:23 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 18:34:23 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 2.795 seconds (JVM running for 3.274)
+[INFO ] 2020-01-16 18:34:23 [qtp353891891-45] org.eclipse.jetty.util.TypeUtil - JVM Runtime does not support Modules
+[INFO ] 2020-01-16 18:34:23 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:34:23 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:34:23 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 18:34:23 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 18:34:23 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@a567e72{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:34:23 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 18:34:23 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:34:23 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@15fb7a32{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.5485257120758296849.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 18:37:57 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 9385 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 18:37:57 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 18:37:57 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 18:37:57 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 45ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 18:37:57 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 18:37:57 [main] org.eclipse.jetty.util.log - Logging initialized @1902ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 18:37:57 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 18:37:57 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 18:37:57 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 18:37:57 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 885 ms
+[INFO ] 2020-01-16 18:37:57 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 18:37:57 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 18:37:57 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 18:37:57 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@5b94ccbc{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.1294064840689173442.8080/],AVAILABLE}
+[INFO ] 2020-01-16 18:37:57 [main] org.eclipse.jetty.server.Server - Started @2058ms
+[INFO ] 2020-01-16 18:37:57 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 18:37:57 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 18:37:57 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 18:37:57 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 18:37:57 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 18:37:57 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-01-16 18:37:57 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 18:37:57 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:37:57 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:37:57 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:37:57 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:37:57 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-01-16 18:37:57 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@46c00568{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:37:57 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 18:37:57 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 2.719 seconds (JVM running for 3.397)
+[INFO ] 2020-01-16 18:37:57 [qtp1759915172-45] org.eclipse.jetty.util.TypeUtil - JVM Runtime does not support Modules
+[INFO ] 2020-01-16 18:37:57 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:37:57 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:37:57 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 18:37:57 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 18:37:57 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@46c00568{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:37:57 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 18:37:57 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:37:57 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@5b94ccbc{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.1294064840689173442.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 18:41:13 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 9405 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 18:41:13 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 18:41:13 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 18:41:13 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 18:41:13 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 18:41:13 [main] org.eclipse.jetty.util.log - Logging initialized @1862ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 18:41:13 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 18:41:13 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 18:41:13 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 18:41:13 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 873 ms
+[INFO ] 2020-01-16 18:41:13 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 18:41:13 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 18:41:13 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 18:41:13 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@70e02081{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.7767895553323158129.8080/],AVAILABLE}
+[INFO ] 2020-01-16 18:41:13 [main] org.eclipse.jetty.server.Server - Started @2021ms
+[INFO ] 2020-01-16 18:41:13 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 18:41:13 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 18:41:13 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 18:41:13 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 18:41:13 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 18:41:13 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-01-16 18:41:13 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 18:41:13 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:41:13 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:41:13 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:41:13 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:41:13 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-01-16 18:41:13 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@11653e3b{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:41:13 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 18:41:13 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 2.78 seconds (JVM running for 3.44)
+[INFO ] 2020-01-16 18:41:13 [qtp1073051173-46] org.eclipse.jetty.util.TypeUtil - JVM Runtime does not support Modules
+[INFO ] 2020-01-16 18:41:13 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:41:13 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:41:13 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 18:41:13 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 18:41:13 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@11653e3b{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:41:13 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 18:41:13 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:41:13 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@70e02081{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.7767895553323158129.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 18:59:45 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 9538 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 18:59:45 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 18:59:45 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 18:59:45 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 42ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 18:59:45 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 18:59:45 [main] org.eclipse.jetty.util.log - Logging initialized @2043ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 18:59:45 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 18:59:45 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 18:59:45 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 18:59:45 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 996 ms
+[INFO ] 2020-01-16 18:59:45 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 18:59:45 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 18:59:45 [main] org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+[INFO ] 2020-01-16 18:59:45 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@260f2144{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.8291310681754635346.8080/],AVAILABLE}
+[INFO ] 2020-01-16 18:59:45 [main] org.eclipse.jetty.server.Server - Started @2270ms
+[INFO ] 2020-01-16 18:59:45 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 18:59:45 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 18:59:45 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 18:59:45 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 18:59:45 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 18:59:45 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-01-16 18:59:45 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 18:59:45 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:59:45 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:59:45 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:59:45 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:59:45 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-01-16 18:59:45 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@1517f633{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:59:45 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 18:59:45 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 3.186 seconds (JVM running for 3.891)
+[INFO ] 2020-01-16 18:59:45 [qtp45880026-47] org.eclipse.jetty.util.TypeUtil - JVM Runtime does not support Modules
+[INFO ] 2020-01-16 18:59:45 [qtp45880026-23] com.linglouyi.tools.DanMuTool - 当前抓取视频分页:12
+[INFO ] 2020-01-16 18:59:45 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 18:59:45 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 18:59:45 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 18:59:45 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 18:59:45 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1517f633{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 18:59:45 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 18:59:45 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 18:59:45 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@260f2144{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.8291310681754635346.8080/],UNAVAILABLE}
+[INFO ] 2020-01-16 19:02:07 [main] com.linglouyi.blog.BlogApplication - Starting BlogApplication on chifandejiahuo.local with PID 9545 (/Users/liyi/Desktop/linglouyi/blog/target/classes started by liyi in /Users/liyi/Desktop/linglouyi)
+[INFO ] 2020-01-16 19:02:07 [main] com.linglouyi.blog.BlogApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-16 19:02:07 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-01-16 19:02:07 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 39ms. Found 1 repository interfaces.
+[INFO ] 2020-01-16 19:02:07 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-01-16 19:02:07 [main] org.eclipse.jetty.util.log - Logging initialized @1827ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2020-01-16 19:02:07 [main] o.s.b.w.e.j.JettyServletWebServerFactory - Server initialized with port: 8080
+[INFO ] 2020-01-16 19:02:07 [main] org.eclipse.jetty.server.Server - jetty-9.4.22.v20191022; built: 2019-10-22T13:37:13.455Z; git: b1e6b55512e008f7fbdf1cbea4ff8a6446d1073b; jvm 1.8.0_191-b12
+[INFO ] 2020-01-16 19:02:07 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-01-16 19:02:07 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 858 ms
+[INFO ] 2020-01-16 19:02:07 [main] org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[INFO ] 2020-01-16 19:02:07 [main] org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[INFO ] 2020-01-16 19:02:07 [main] org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[INFO ] 2020-01-16 19:02:07 [main] o.e.j.server.handler.ContextHandler - Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@2b8bd14b{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.5173274780186893031.8080/],AVAILABLE}
+[INFO ] 2020-01-16 19:02:07 [main] org.eclipse.jetty.server.Server - Started @1979ms
+[INFO ] 2020-01-16 19:02:07 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-01-16 19:02:07 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-01-16 19:02:07 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-01-16 19:02:07 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-01-16 19:02:07 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-01-16 19:02:07 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-01-16 19:02:07 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-01-16 19:02:07 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 19:02:07 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 19:02:07 [main] o.e.j.s.h.ContextHandler.application - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 19:02:07 [main] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-01-16 19:02:07 [main] o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+[INFO ] 2020-01-16 19:02:07 [main] o.e.jetty.server.AbstractConnector - Started ServerConnector@60baef24{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 19:02:07 [main] o.s.b.w.e.jetty.JettyWebServer - Jetty started on port(s) 8080 (http/1.1) with context path '/'
+[INFO ] 2020-01-16 19:02:07 [main] com.linglouyi.blog.BlogApplication - Started BlogApplication in 2.783 seconds (JVM running for 3.395)
+[INFO ] 2020-01-16 19:02:07 [qtp1299126654-45] org.eclipse.jetty.util.TypeUtil - JVM Runtime does not support Modules
+[INFO ] 2020-01-16 19:02:07 [qtp1299126654-45] com.linglouyi.tools.DanMuTool - 当前抓取视频分页:12

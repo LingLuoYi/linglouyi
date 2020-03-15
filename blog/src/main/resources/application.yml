@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: linglouyi
+    url: jdbc:mysql://linglouyi.tk:3306/blog?characterEncoding=utf-8&amp&serverTimezone=UTC&amp&useSSL=false
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL5Dialect
+    show-sql: true
+
+
+
+system:
+  token: x-token

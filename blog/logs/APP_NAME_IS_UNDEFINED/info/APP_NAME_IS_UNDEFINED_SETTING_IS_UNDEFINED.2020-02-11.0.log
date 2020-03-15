@@ -1,0 +1,14 @@
+[INFO ] 2020-02-11 10:51:11 [main] VipVideoServiceTest - Starting VipVideoServiceTest on chifandejiahuo.local with PID 20505 (started by liyi in /Users/liyi/Desktop/linglouyi/blog)
+[INFO ] 2020-02-11 10:51:11 [main] VipVideoServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-11 10:51:11 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-02-11 10:51:11 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 90ms. Found 2 repository interfaces.
+[INFO ] 2020-02-11 10:51:11 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-11 10:51:11 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-02-11 10:51:11 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-02-11 10:51:11 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-02-11 10:51:11 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-11 10:51:11 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-02-11 10:51:11 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-11 10:51:11 [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.

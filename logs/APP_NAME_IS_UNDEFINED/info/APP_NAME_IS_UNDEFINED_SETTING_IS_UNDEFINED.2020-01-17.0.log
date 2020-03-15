@@ -1,0 +1,8 @@
+[INFO ] 2020-01-16 19:02:07 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-01-16 19:02:07 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-01-16 19:02:07 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-01-16 19:02:07 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-01-16 19:02:07 [SpringContextShutdownHook] o.e.jetty.server.AbstractConnector - Stopped ServerConnector@60baef24{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[INFO ] 2020-01-16 19:02:07 [SpringContextShutdownHook] org.eclipse.jetty.server.session - node0 Stopped scavenging
+[INFO ] 2020-01-16 19:02:07 [SpringContextShutdownHook] o.e.j.s.h.ContextHandler.application - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2020-01-16 19:02:07 [SpringContextShutdownHook] o.e.j.server.handler.ContextHandler - Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@2b8bd14b{application,/,[file:///private/var/folders/b2/mz035csx34z9tgynggvwml7w0000gn/T/jetty-docbase.5173274780186893031.8080/],UNAVAILABLE}

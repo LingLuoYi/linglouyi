@@ -1,0 +1,325 @@
+[INFO ] 2020-02-13 11:54:40 [main] VipVideoServiceTest - Starting VipVideoServiceTest on chifandejiahuo.local with PID 3059 (started by liyi in /Users/liyi/Desktop/linglouyi/blog)
+[INFO ] 2020-02-13 11:54:40 [main] VipVideoServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-13 11:54:40 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-02-13 11:54:40 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 92ms. Found 2 repository interfaces.
+[INFO ] 2020-02-13 11:54:40 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-13 11:54:40 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-02-13 11:54:40 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-02-13 11:54:40 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-02-13 11:54:40 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-13 11:54:40 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-02-13 11:54:40 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-13 11:54:40 [main] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[INFO ] 2020-02-13 12:04:53 [main] VipVideoServiceTest - Starting VipVideoServiceTest on chifandejiahuo.local with PID 3133 (started by liyi in /Users/liyi/Desktop/linglouyi/blog)
+[INFO ] 2020-02-13 12:04:53 [main] VipVideoServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-13 12:04:53 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-02-13 12:04:53 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 73ms. Found 2 repository interfaces.
+[INFO ] 2020-02-13 12:04:53 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-13 12:04:53 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-02-13 12:04:53 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-02-13 12:04:53 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-02-13 12:04:53 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-13 12:04:53 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-02-13 12:04:53 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-02-13 12:04:53 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-02-13 12:04:53 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-13 12:04:53 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-13 12:04:53 [main] VipVideoServiceTest - Started VipVideoServiceTest in 5.131 seconds (JVM running for 5.908)
+[INFO ] 2020-02-13 12:04:53 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-13 12:04:53 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-13 12:04:53 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-02-13 12:04:53 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-02-13 12:06:18 [main] VipVideoServiceTest - Starting VipVideoServiceTest on chifandejiahuo.local with PID 3137 (started by liyi in /Users/liyi/Desktop/linglouyi/blog)
+[INFO ] 2020-02-13 12:06:18 [main] VipVideoServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-13 12:06:18 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-02-13 12:06:18 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 79ms. Found 2 repository interfaces.
+[INFO ] 2020-02-13 12:06:18 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-13 12:06:18 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-02-13 12:06:18 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-02-13 12:06:18 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-02-13 12:06:18 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-13 12:06:18 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-02-13 12:06:18 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-02-13 12:06:18 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-02-13 12:06:18 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-13 12:06:18 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-13 12:06:18 [main] VipVideoServiceTest - Started VipVideoServiceTest in 4.984 seconds (JVM running for 5.642)
+[INFO ] 2020-02-13 12:06:18 [main] VipVideoServiceTest - com.linglouyi.blog.service.VipVideoService@5a6195b8
+[INFO ] 2020-02-13 12:06:18 [main] c.l.blog.service.VipVideoService - 
+<!--
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>97解析交流群 692504407</title>
+<style type="text/css">body,html,div{background-color:#000;padding: 0;margin: 0;width:100%;height:100%;color:#aaa;}</style>
+</head>
+<body>
+
+<script>	
+var encode_version = 'sojson.v4';var __0x1f239=['OcKpw6bCk8O2','WAzCmMKyCQ==','w73DkStaIw==','wpocVT8=','ZWTCgMKyVw==','aBvCmMKwMg==','X8K3clE=','fm3Cj8KHeg==','dsO6PsOUwrA=','w7bDvgjDvcKe','XXfDksO8Vg==','e21Dw5bChQ==','w5fCvsK2woB7','w43DvkPCoDA=','wqPCtTLCpsKL','dsOaGQ==','w55mw44hwrI=','wonCnXNIwpY=','w4vDhAzCusOHcMKJwq4+w7NYw43DsA==','IjLCgsOi','YcKswpHCqmVJZD4=','DsOCw4lGQB0=','w7rDsAU=','QMKpw6bCoMKq','QzTClA/CiA==','Z8Omw4U=','QcOEOMO8wp8=','XsKcwpbCo8Ot','w4PDtBnDkcKU','wq5lT3bDpA==','wrk6a8Kwwqw=','O8Kxw7fClsOh','JzPCiMO3wqzCnh5X','EsOFw4JRQAE=','w5R0OlkC','ag/Cjz7Csg==','U8KVRnRP','BMOQOMK5wpM=','UiLCnw7Ciw==','w43DmxpkGg==','JyFSwqR1','wogwAn3CoA==','UcK/wprCmMOy','ecK/bFJb','eXDDhj3Clw==','wrvDj8Kww5HDtw==','asOIB0oA','w6YFYREE','w5RXw44iwrQ=','ZcKAw7UTwro=','RzXCgMKuOg==','wrYXYygg','w6DCrsOWdlw=','w6c0Wjw7WcOLwq7CvMOtw7jDpcKlPcO8woQ=','D8ONScKKwrc=','VhXCrSjCpg==','C8Kvw4vCmMOC','McOWYsKKwrrDq8KZwpfDuMKwwqo4TsKfwrEJ','w6PCpMOwcUI=','wrzDl3B1TQ==','fcK0w6w+','fMOAFDLCoA==','X8ObYS0=','w6rCr0Uqw5E=','wp/CgifCkcKV','w7rDp8KjYhs=','RsK0Q01z','wpzDs3xYSQ==','w7vCisO8ZHY=','w5HDh8Kscyw=','w6LCr8Kfwpx8','BMK6wqZGwqc=','AhlkwrNH','wqY2DRw1','w5XCpnwa','AMKFwr9uwqc=','w4vDrD3DhsKa','wpPDt8K3w7TDnQ==','fMKDbGRY','dEPDqcO7WsKw','w6bDjGvCmig=','LMO0w5LDmsKmwqLClQ==','w7ttw6EiwpQUaA==','BR7DmMK7TyzCgsOUwrU0w5vCmsKTM8OkdDM=','OCzCh8O/wqw=','wq8hbw==','OxVzwpI=','PsKkw6XCj8O/','SnLCucKYbA==','woo3K23Csg==','w73CpsKcwoQ=','w5ADTDQD','woXCnDvCjcKV','R8K9Zg==','RsOjPhPCqXhZ','V8OBw6IFwrA1Mw==','wqY8esKrwpY=','P8OOPsKFwpIDfQ==','w4IsLHzCtijDgcKpwowuanQEw7QQGAF5XcOpXg7CjhhfU8OBw5TDrgfDtcOoXMK1csOGRcKsYWPCvcO4wofDumLCiMOwMSDCqMOUfsK0wpzDsn/Do8O1emoXwo8EVyIHEsOzw5zDvkbDhxglwrg+w5BHLMKawpI7wq9NQycKdx/CosO3RSkNUTJzFMOKUnNEa8O/wpvDl00oCnLCtsKdVC42LMOeL3l3QQxPfkJ9UW/DjsOJw45eNsKTwpFfw57DssK1','wrDDoCl3w6c=','ZcO8Xw==','w67Dqyc=','ZxDCpg==','fcKUw6s=','dsOEHA==','w5x2w7oUwrI=','w7DDkAR9Bg==','w53CnsKY','ccONdyPCsw==','f8OEEQLCtQ==','wp7Dn3tdWnw=','w5DDhwZJAA==','wqd0Rg==','wqUoChYj','wotHFntNw6XDmyXDgxnClzUrw4/DlcO3wrrDsHfDg8KewrhbEcOewpjDp3jDtcKBKgRdw4XDncKuOcKYA8OKw4QYbjHCt2F2OMKHf8OFQMKxwoQ/wrTDncO4YnEiYA=='];(function(_0x5266b9,_0x2fd9ac){var _0x1627b6=function(_0xacdcc){while(--_0xacdcc){_0x5266b9['push'](_0x5266b9['shift']());}};_0x1627b6(++_0x2fd9ac);}(__0x1f239,0xf7));var _0x2001=function(_0x33dc6c,_0x4852c9){_0x33dc6c=_0x33dc6c-0x0;var _0xd27c1=__0x1f239[_0x33dc6c];if(_0x2001['initialized']===undefined){(function(){var _0x107a8c=typeof window!=='undefined'?window:typeof process==='object'&&typeof require==='function'&&typeof global==='object'?global:this;var _0x573473='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';_0x107a8c['atob']||(_0x107a8c['atob']=function(_0x275230){var _0x135a93=String(_0x275230)['replace'](/=+$/,'');for(var _0x2f78fb=0x0,_0x25344b,_0x3a757f,_0x59f5d2=0x0,_0x2d2ce6='';_0x3a757f=_0x135a93['charAt'](_0x59f5d2++);~_0x3a757f&&(_0x25344b=_0x2f78fb%0x4?_0x25344b*0x40+_0x3a757f:_0x3a757f,_0x2f78fb++%0x4)?_0x2d2ce6+=String['fromCharCode'](0xff&_0x25344b>>(-0x2*_0x2f78fb&0x6)):0x0){_0x3a757f=_0x573473['indexOf'](_0x3a757f);}return _0x2d2ce6;});}());var _0x4a8b0c=function(_0xe21ac4,_0x1af29c){var _0x8b89a9=[],_0x1a48a0=0x0,_0x4c4916,_0x507048='',_0x1c2212='';_0xe21ac4=atob(_0xe21ac4);for(var _0x272c4e=0x0,_0x2854cd=_0xe21ac4['length'];_0x272c4e<_0x2854cd;_0x272c4e++){_0x1c2212+='%'+('00'+_0xe21ac4['charCodeAt'](_0x272c4e)['toString'](0x10))['slice'](-0x2);}_0xe21ac4=decodeURIComponent(_0x1c2212);for(var _0x382a2e=0x0;_0x382a2e<0x100;_0x382a2e++){_0x8b89a9[_0x382a2e]=_0x382a2e;}for(_0x382a2e=0x0;_0x382a2e<0x100;_0x382a2e++){_0x1a48a0=(_0x1a48a0+_0x8b89a9[_0x382a2e]+_0x1af29c['charCodeAt'](_0x382a2e%_0x1af29c['length']))%0x100;_0x4c4916=_0x8b89a9[_0x382a2e];_0x8b89a9[_0x382a2e]=_0x8b89a9[_0x1a48a0];_0x8b89a9[_0x1a48a0]=_0x4c4916;}_0x382a2e=0x0;_0x1a48a0=0x0;for(var _0x225dcf=0x0;_0x225dcf<_0xe21ac4['length'];_0x225dcf++){_0x382a2e=(_0x382a2e+0x1)%0x100;_0x1a48a0=(_0x1a48a0+_0x8b89a9[_0x382a2e])%0x100;_0x4c4916=_0x8b89a9[_0x382a2e];_0x8b89a9[_0x382a2e]=_0x8b89a9[_0x1a48a0];_0x8b89a9[_0x1a48a0]=_0x4c4916;_0x507048+=String['fromCharCode'](_0xe21ac4['charCodeAt'](_0x225dcf)^_0x8b89a9[(_0x8b89a9[_0x382a2e]+_0x8b89a9[_0x1a48a0])%0x100]);}return _0x507048;};_0x2001['rc4']=_0x4a8b0c;_0x2001['data']={};_0x2001['initialized']=!![];}var _0x4db64a=_0x2001['data'][_0x33dc6c];if(_0x4db64a===undefined){if(_0x2001['once']===undefined){_0x2001['once']=!![];}_0xd27c1=_0x2001['rc4'](_0xd27c1,_0x4852c9);_0x2001['data'][_0x33dc6c]=_0xd27c1;}else{_0xd27c1=_0x4db64a;}return _0xd27c1;};function getQueryString(_0x103f98){var _0x309a0e={'MYNzk':'5|0|7|2|9|8|1|3|4|6','lrIvz':function _0x5b6569(_0x47b892,_0x5c4c34){return _0x47b892+_0x5c4c34;},'xGGQN':function _0x5420f9(_0x46d0c7,_0x1ca6f5){return _0x46d0c7+_0x1ca6f5;},'ztctH':_0x2001('0x0','zlqN'),'NHPVc':_0x2001('0x1','8P*V'),'bfghw':function _0x7d932a(_0x2406c8,_0x32c868){return _0x2406c8(_0x32c868);},'ZKwXN':_0x2001('0x2','RCAj'),'LloHd':function _0x444696(_0x2be60e,_0x6ddf6c){return _0x2be60e+_0x6ddf6c;},'XXIFQ':'zYD','kUSXQ':function _0x207139(_0x5448c5,_0x454fce){return _0x5448c5(_0x454fce);},'vuHsw':function _0x30d05e(_0xbf4e1d,_0x28ddb8){return _0xbf4e1d!==_0x28ddb8;},'iBGOP':'undefined','RmmwZ':function _0x27b29c(_0x46c903,_0x29abe6){return _0x46c903===_0x29abe6;},'FHRBP':_0x2001('0x3','Q(N&'),'mZUqO':_0x2001('0x4','vcMF'),'gDUNK':_0x2001('0x5','Bb[Z'),'LUAsO':'1|4|0|3|6|2|5','djmat':function _0x16b633(_0x4b2183){return _0x4b2183();}};var _0x16b3cf=_0x309a0e[_0x2001('0x6','dns^')][_0x2001('0x7','rgfT')]('|'),_0x5b61a2=0x0;while(!![]){switch(_0x16b3cf[_0x5b61a2++]){case'0':var _0x1850af=function(){var _0x575589=!![];return function(_0x1535d4,_0x45b3b9){var _0x28e49d=_0x575589?function(){var _0x241fcb={'vsVJl':function _0x316e2a(_0x2eb13b,_0x468119){return _0x2eb13b===_0x468119;},'faKtO':_0x2001('0x8','&wRs')};if(_0x241fcb[_0x2001('0x9','UMaG')](_0x241fcb[_0x2001('0xa','67oI')],_0x241fcb['faKtO'])){if(_0x45b3b9){var _0x572036=_0x45b3b9['apply'](_0x1535d4,arguments);_0x45b3b9=null;return _0x572036;}}else{}}:function(){};_0x575589=![];return _0x28e49d;};}();continue;case'1':var _0x18f833=new RegExp(_0x309a0e[_0x2001('0xb','Bb[Z')](_0x309a0e[_0x2001('0xc','U8lH')](_0x309a0e[_0x2001('0xd','aUSq')],_0x103f98),_0x309a0e['NHPVc']),'i');continue;case'2':var _0x158950=function(){var _0x3f5d05=!![];return function(_0x359b72,_0x52d59e){var _0x32cc12=_0x3f5d05?function(){if(_0x52d59e){var _0x257edd=_0x52d59e[_0x2001('0xe','TWo7')](_0x359b72,arguments);_0x52d59e=null;return _0x257edd;}}:function(){};_0x3f5d05=![];return _0x32cc12;};}();continue;case'3':var _0x427bb2=window[_0x2001('0xf','RCAj')][_0x2001('0x10','vcMF')]['substr'](0x1)['match'](_0x18f833);continue;case'4':if(_0x427bb2!=null)return _0x309a0e[_0x2001('0x11','&bK1')](unescape,_0x427bb2[0x2]);continue;case'5':var _0x9f0c25={'lQjYh':_0x309a0e[_0x2001('0x12','rgfT')],'vWhiG':function _0x21b333(_0x20fde7,_0x57ddbc){return _0x309a0e[_0x2001('0x13','CeQy')](_0x20fde7,_0x57ddbc);},'fQUNZ':function _0x190bf1(_0x3a15ad,_0x1b5249){return _0x309a0e[_0x2001('0x14','pC*C')](_0x3a15ad,_0x1b5249);},'XnEcy':function _0x12e151(_0x5c664b,_0x1746c6){return _0x309a0e[_0x2001('0x15','rgfT')](_0x5c664b,_0x1746c6);},'umCpM':_0x309a0e['XXIFQ'],'QnLbZ':_0x2001('0x16','L*ow'),'mcnIk':function _0xd7f08e(_0x3cbfe6,_0x44b469){return _0x309a0e[_0x2001('0x17','fzdT')](_0x3cbfe6,_0x44b469);},'zUjRp':function _0x7b739f(_0x18c7d6,_0x2f5bc2){return _0x309a0e[_0x2001('0x18','YgfY')](_0x18c7d6,_0x2f5bc2);},'cagNx':_0x309a0e[_0x2001('0x19','67oI')],'WQmAY':function _0x29c247(_0x1d00be,_0x3de5c6){return _0x309a0e[_0x2001('0x1a','CeQy')](_0x1d00be,_0x3de5c6);},'sCgpV':function _0x20769f(_0x529c67,_0x4dbccf){return _0x309a0e[_0x2001('0x1b','DiZN')](_0x529c67,_0x4dbccf);},'wvPsH':_0x309a0e['FHRBP'],'hDdQL':function _0x25c2af(_0x4d5a01,_0x300b4a){return _0x309a0e[_0x2001('0x1c','4mBq')](_0x4d5a01,_0x300b4a);},'pMaMd':_0x309a0e[_0x2001('0x1d','qv$J')],'QBxkL':_0x309a0e[_0x2001('0x1e','$MvP')],'vbIEK':_0x309a0e[_0x2001('0x1f','*#Nv')]};continue;case'6':return null;case'7':(function(){var _0x3c0127={'vgewS':'\x5c+\x5c+\x20*(?:_0x(?:[a-f0-9]){4,6}|(?:\x5cb|\x5cd)[a-z0-9]{1,4}(?:\x5cb|\x5cd))','NmeOc':_0x9f0c25[_0x2001('0x20','54Jd')],'YLDRf':function _0xec4618(_0x4616c2,_0x5b1c27){return _0x9f0c25[_0x2001('0x21','p@$h')](_0x4616c2,_0x5b1c27);},'hvAoF':'chain','KlJDn':function _0x506928(_0x2b2138,_0x1e3839){return _0x9f0c25['fQUNZ'](_0x2b2138,_0x1e3839);},'iDntP':function _0x5da66a(_0x56f533,_0x36ddb2){return _0x9f0c25[_0x2001('0x22','Q6tB')](_0x56f533,_0x36ddb2);},'mfBhr':function _0x37b834(_0x4df0ee,_0x28f949){return _0x4df0ee!==_0x28f949;},'nIibg':_0x9f0c25[_0x2001('0x23','tfXO')],'Bdaeg':_0x2001('0x24','$MvP'),'rlzXy':function _0x271793(_0x4d5454,_0x2c9bc1){return _0x9f0c25[_0x2001('0x25','O(D^')](_0x4d5454,_0x2c9bc1);},'qZGLX':function _0x5c2e3c(_0x2a7e7b,_0xaa66eb){return _0x9f0c25[_0x2001('0x26','rgfT')](_0x2a7e7b,_0xaa66eb);},'vScpy':_0x9f0c25[_0x2001('0x27','TWo7')],'iYqSv':function _0x1eae33(_0x40f02e,_0x5716e2){return _0x9f0c25['mcnIk'](_0x40f02e,_0x5716e2);}};_0x1850af(this,function(){var _0x251518=new RegExp(_0x2001('0x28','O(D^'));var _0x3ec120=new RegExp(_0x3c0127[_0x2001('0x29','tfXO')],'i');var _0x5d8ba7=_0xb6ee25(_0x3c0127[_0x2001('0x2a','hAx[')]);if(!_0x251518[_0x2001('0x2b','54Jd')](_0x3c0127[_0x2001('0x2c','dd8D')](_0x5d8ba7,_0x3c0127['hvAoF']))||!_0x3ec120[_0x2001('0x2d','wjhk')](_0x3c0127[_0x2001('0x2e','zlqN')](_0x5d8ba7,_0x2001('0x2f','8P*V')))){_0x3c0127[_0x2001('0x30','WCfW')](_0x5d8ba7,'0');}else{if(_0x3c0127[_0x2001('0x31','CeQy')](_0x3c0127[_0x2001('0x32','hAx[')],_0x3c0127[_0x2001('0x33','tfXO')])){var _0x33acb7=new RegExp(_0x3c0127[_0x2001('0x34','WCfW')]);var _0x2a91e5=new RegExp(_0x3c0127[_0x2001('0x35','Ymr5')],'i');var _0x3ee38a=_0x3c0127[_0x2001('0x36','ZDt1')](_0xb6ee25,_0x3c0127[_0x2001('0x37','fzdT')]);if(!_0x33acb7['test'](_0x3c0127[_0x2001('0x38','WkEH')](_0x3ee38a,'chain'))||!_0x2a91e5[_0x2001('0x39','zlqN')](_0x3ee38a+_0x3c0127[_0x2001('0x3a','ZDt1')])){_0x3c0127['iYqSv'](_0x3ee38a,'0');}else{_0xb6ee25();}}else{_0xb6ee25();}}})();}());continue;case'8':_0x309a0e[_0x2001('0x3b','Bb[Z')](_0x867b0d);continue;case'9':var _0x867b0d=_0x158950(this,function(){var _0x4f76e8=function(){};var _0x506fc7=_0x9f0c25[_0x2001('0x3c','4mBq')](typeof window,_0x9f0c25['cagNx'])?window:_0x9f0c25[_0x2001('0x3d','CeQy')](typeof process,_0x2001('0x3e','r#4F'))&&_0x9f0c25['sCgpV'](typeof require,_0x9f0c25['wvPsH'])&&_0x9f0c25[_0x2001('0x3f','%Rw*')](typeof global,_0x9f0c25['pMaMd'])?global:this;if(!_0x506fc7[_0x2001('0x40','K$Xy')]){_0x506fc7[_0x2001('0x41','*#Nv')]=function(_0xc5d653){var _0x2c26c3=_0x2001('0x42','p@$h')[_0x2001('0x43','RCAj')]('|'),_0x5de47e=0x0;while(!![]){switch(_0x2c26c3[_0x5de47e++]){case'0':_0x446d57[_0x2001('0x44','aUSq')]=_0xc5d653;continue;case'1':_0x446d57['exception']=_0xc5d653;continue;case'2':_0x446d57[_0x2001('0x45','fzdT')]=_0xc5d653;continue;case'3':_0x446d57[_0x2001('0x46','TWo7')]=_0xc5d653;continue;case'4':var _0x446d57={};continue;case'5':_0x446d57[_0x2001('0x47','P&Wb')]=_0xc5d653;continue;case'6':_0x446d57[_0x2001('0x48','YgfY')]=_0xc5d653;continue;case'7':return _0x446d57;case'8':_0x446d57[_0x2001('0x49','Ymr5')]=_0xc5d653;continue;}break;}}(_0x4f76e8);}else{if(_0x9f0c25['hDdQL']('hrV',_0x9f0c25[_0x2001('0x4a','$MvP')])){debugger;}else{var _0x57d386=_0x9f0c25['vbIEK'][_0x2001('0x4b','8P*V')]('|'),_0x285d33=0x0;while(!![]){switch(_0x57d386[_0x285d33++]){case'0':_0x506fc7[_0x2001('0x40','K$Xy')]['debug']=_0x4f76e8;continue;case'1':_0x506fc7[_0x2001('0x40','K$Xy')][_0x2001('0x4c','CeQy')]=_0x4f76e8;continue;case'2':_0x506fc7[_0x2001('0x4d','dd8D')]['exception']=_0x4f76e8;continue;case'3':_0x506fc7[_0x2001('0x40','K$Xy')]['info']=_0x4f76e8;continue;case'4':_0x506fc7['console']['warn']=_0x4f76e8;continue;case'5':_0x506fc7['console']['trace']=_0x4f76e8;continue;case'6':_0x506fc7[_0x2001('0x4e','&wRs')][_0x2001('0x4f','aUSq')]=_0x4f76e8;continue;}break;}}}});continue;}break;}}document[_0x2001('0x50','pC*C')](_0x2001('0x51','YgfY')+getQueryString('url')+'\x27\x20height=\x27100%\x27\x20\x20width=\x27100%\x27\x20allowFullscreen=\x27true\x27></iframe>');setInterval(function(){var _0x51999e={'nNNyO':function _0x891d25(_0x556bc5){return _0x556bc5();}};_0x51999e[_0x2001('0x52','L0l3')](_0xb6ee25);},0xfa0);function _0xb6ee25(_0x95d1f3){var _0x537713={'FqvVi':function _0x441710(_0x529feb,_0x29f8a1){return _0x529feb===_0x29f8a1;},'CvLkT':_0x2001('0x53','wjhk'),'UYeBj':_0x2001('0x54','Bb[Z'),'FdApI':function _0x35feab(_0xe03a96){return _0xe03a96();}};function _0x3d82e8(_0x46b7c9){var _0x26ff7d={'DtuEI':'mSm','sVvXl':_0x2001('0x55','p@$h'),'Tenlh':function _0x2a6d10(_0x58b3f7,_0xd4c64a){return _0x58b3f7===_0xd4c64a;},'GOLEg':_0x2001('0x56','54Jd'),'ShfVW':function _0x5cd492(_0x1368a8,_0x411f43){return _0x1368a8!==_0x411f43;},'ZsezR':function _0x14d92d(_0x369903,_0x35cd5b){return _0x369903+_0x35cd5b;},'ZHAbs':function _0x2ac75b(_0x3d9754,_0x14952a){return _0x3d9754/_0x14952a;},'trlXn':function _0x8d36f9(_0x1320f4,_0x4c848b){return _0x1320f4!==_0x4c848b;},'GJfxn':_0x2001('0x57','qv$J'),'cGiiH':function _0x33cfb9(_0x310b54,_0x299907,_0x1c55cc){return _0x310b54(_0x299907,_0x1c55cc);},'FVQbo':function _0x4b2c6c(_0x927c94,_0x58e9ea){return _0x927c94(_0x58e9ea);}};if(_0x26ff7d[_0x2001('0x58','*#Nv')]===_0x26ff7d['sVvXl']){}else{if(_0x26ff7d['Tenlh'](typeof _0x46b7c9,'string')){var _0x25091e=function(){while(!![]){}};return _0x25091e();}else{if(_0x26ff7d[_0x2001('0x59','L*ow')](_0x2001('0x5a','Ymr5'),_0x26ff7d['GOLEg'])){var _0x2d2b6f=function(){while(!![]){}};return _0x2d2b6f();}else{if(_0x26ff7d['ShfVW'](_0x26ff7d[_0x2001('0x5b','wjhk')]('',_0x26ff7d[_0x2001('0x5c','dd8D')](_0x46b7c9,_0x46b7c9))[_0x2001('0x5d','hAx[')],0x1)||_0x46b7c9%0x14===0x0){if(_0x26ff7d[_0x2001('0x5e','L*ow')](_0x2001('0x5f','U8lH'),_0x26ff7d['GJfxn'])){_0x26ff7d[_0x2001('0x60','j2xc')](_0x473559,this,function(){var gfbOsU={'asoty':_0x2001('0x61','WkEH'),'YdAKM':'init','JdKEI':function _0x149f42(_0x3fa49d,_0x350669){return _0x3fa49d+_0x350669;},'YypwO':_0x2001('0x62','TWo7'),'lJmZf':function _0x4cef1f(_0x33e1ce,_0x35e57d){return _0x33e1ce+_0x35e57d;},'QmDpd':_0x2001('0x63','p@$h'),'AMPbC':function _0x5792d2(_0x5c682f,_0x4976f9){return _0x5c682f(_0x4976f9);},'YxXZp':function _0x3600e3(_0x558197){return _0x558197();}};var _0x48037c=new RegExp('function\x20*\x5c(\x20*\x5c)');var _0x38d880=new RegExp(gfbOsU['asoty'],'i');var _0x35939c=_0xb6ee25(gfbOsU[_0x2001('0x64','L*ow')]);if(!_0x48037c[_0x2001('0x65','Q6tB')](gfbOsU[_0x2001('0x66','P&Wb')](_0x35939c,gfbOsU[_0x2001('0x67','p@$h')]))||!_0x38d880[_0x2001('0x68','CeQy')](gfbOsU['lJmZf'](_0x35939c,gfbOsU[_0x2001('0x69','P&Wb')]))){gfbOsU[_0x2001('0x6a','UMaG')](_0x35939c,'0');}else{gfbOsU[_0x2001('0x6b','Bb[Z')](_0xb6ee25);}})();}else{debugger;}}else{debugger;}}}_0x26ff7d[_0x2001('0x6c','r#4F')](_0x3d82e8,++_0x46b7c9);}}try{if(_0x537713[_0x2001('0x6d','WFns')](_0x537713[_0x2001('0x6e','Ymr5')],_0x537713[_0x2001('0x6f','%Rw*')])){if(_0x95d1f3){return _0x3d82e8;}else{if(_0x537713[_0x2001('0x70','8P*V')]!==_0x2001('0x71','UMaG')){_0x537713[_0x2001('0x72','*#Nv')](_0xb6ee25);}else{_0x3d82e8(0x0);}}}else{}}catch(_0x562abf){}};encode_version = 'sojson.v4';
+
+</script>  
+</body>
+
+-->
+
+
+
+
+<!--统计开始 vip.hackmg.com-->
+<!--<div style="display:none">
+<script src="https://s22.cnzz.com/z_stat.php?id=1274270358&web_id=1274270358" language="JavaScript"></script>
+  </div>-->
+<!--统计结束-->
+
+
+
+
+<html lang="en">
+<head>
+ <meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<script src="https://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+<title>97解析交流群 692504407</title>
+<meta name="keywords" content="云解析,视频解析,VIP视频解析,解析接口,免费解析,无广告视频解析,无广告解析,解析源码,API解析接口,CK解析">
+
+<meta name="description" content="云视频解析致力为广大站长提供全网视频无广告视频解析服务！支持电视剧,电影,音乐的VIP视频无广告解析接口和无广告视频解析服务！本解析仅用于学习交流参考，请勿非法商用！。" />
+  </head>
+<body style="padding:0px 0px;margin:0px 0px">
+<!--97解析-->
+
+<iframe id="iframepage" allowFullScreen=ture marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="https://jx.fuxing56.com/jiexi/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju" height="100%" width="100%"></iframe>
+
+ 
+<script>
+    $(function(){
+        var h = $(window).height();
+        $('body').height(h);
+        $(window).resize(function(){
+            var h = $(window).height();
+            $('body').height(h);
+        })
+    });
+
+</script> 
+<!--统计开始 vip.hackmg.com-->
+<div style="display:none">
+<script src="https://s22.cnzz.com/z_stat.php?id=1274270358&web_id=1274270358" language="JavaScript"></script>
+  </div>
+<!--统计结束-->
+
+[INFO ] 2020-02-13 12:06:18 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-13 12:06:18 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-13 12:06:18 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-02-13 12:06:18 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-02-13 14:45:09 [main] VipVideoServiceTest - Starting VipVideoServiceTest on chifandejiahuo.local with PID 3341 (started by liyi in /Users/liyi/Desktop/linglouyi/blog)
+[INFO ] 2020-02-13 14:45:09 [main] VipVideoServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-13 14:45:09 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-02-13 14:45:09 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 69ms. Found 2 repository interfaces.
+[INFO ] 2020-02-13 14:45:09 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-13 14:45:09 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-02-13 14:45:09 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-02-13 14:45:09 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-02-13 14:45:09 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-13 14:45:09 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-02-13 14:45:09 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-02-13 14:45:09 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-02-13 14:45:09 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-13 14:45:09 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-13 14:45:09 [main] VipVideoServiceTest - Started VipVideoServiceTest in 5.076 seconds (JVM running for 5.717)
+[INFO ] 2020-02-13 14:45:09 [main] VipVideoServiceTest - com.linglouyi.blog.service.VipVideoService@779228dc
+[INFO ] 2020-02-13 14:45:09 [main] c.l.blog.service.VipVideoService - <html xmlns="http://www.w3.org/1999/xhtml">
+<head >
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>视频解析</title>
+</head>
+<iframe id="iframepage" allowFullScreen="ture" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="https://jx.fuxing56.com/ceshi/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju" height="100%" width="100%"></iframe>
+<style type="text/css">
+  
+  
+body{
+  	margin: 0px;
+    padding: 0px;
+    background: #000;
+}
+</style>
+<div style="display:none">
+<script type="text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1278604013&web_id=1278604013"></script>
+</div>
+<!--统计代码开始-->
+
+<!--统计代码结束-->
+
+<!--广告代码开始-->
+
+<!--广告代码结束-->
+
+</html>
+
+[INFO ] 2020-02-13 14:45:09 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-13 14:45:09 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-13 14:45:09 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-02-13 14:45:09 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-02-13 14:46:22 [main] VipVideoServiceTest - Starting VipVideoServiceTest on chifandejiahuo.local with PID 3349 (started by liyi in /Users/liyi/Desktop/linglouyi/blog)
+[INFO ] 2020-02-13 14:46:22 [main] VipVideoServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-13 14:46:22 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-02-13 14:46:22 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 77ms. Found 2 repository interfaces.
+[INFO ] 2020-02-13 14:46:22 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-13 14:46:22 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-02-13 14:46:22 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-02-13 14:46:22 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-02-13 14:46:22 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-13 14:46:22 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-02-13 14:46:22 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-02-13 14:46:22 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-02-13 14:46:22 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-13 14:46:22 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-13 14:46:22 [main] VipVideoServiceTest - Started VipVideoServiceTest in 4.436 seconds (JVM running for 5.08)
+[INFO ] 2020-02-13 14:46:22 [main] VipVideoServiceTest - com.linglouyi.blog.service.VipVideoService@779228dc
+[INFO ] 2020-02-13 14:46:22 [main] c.l.blog.service.VipVideoService - <!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>稳定快速VIP视频解析</title>
+<meta name="keywords" content="智卓星网，在线影音，在线VIP视频解析接口，免费解析接口，云解析，视频解析，解析线路，无广告解析接口">
+<meta name="description" content="智卓星网，在线观看最新电影，全网视频VIP免会员解析接口，精品资源QQ交流群825064870">
+<script src="https://apps.bdimg.com/libs/jquery/1.8.3/jquery.min.js"></script>
+<link href="/ceshi/style.css" rel="stylesheet"/>
+</head>
+
+
+<body>
+
+
+<iframe width="100%" height="100%" id="myVideo" src="" frameborder="0" border="0" marginwidth="0" marginheight="0" allowfullscreen="true" scrolling="no"></iframe>
+<script>
+$(function(){
+		$(".line:first").css({"margin-color":"#ff0","color":"#ff0"})
+	$(".line").click(function(){
+		$(".line").css({"margin-color":"#fff","color":"#fff"});
+		
+		$(this).css({"margin-color":"#ff0","color":"#ff0"})
+		})
+     if(window.location.href.indexOf("fun.tv")>0){
+		$("#myVideo").attr("src","https://api.tv920.com/jx/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}else  if(window.location.href.indexOf("wasu.cn")>0){
+		$("#myVideo").attr("src","https://api.sd247.cn/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}else  if(window.location.href.indexOf("/share/")>0){
+		$("#myVideo").attr("src","https://aip.97yx.vip/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}else  if(window.location.href.indexOf(".m3u8")>0){
+		$("#myVideo").attr("src","p2p.php?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}else  if(window.location.href.indexOf(".mp4")>0){
+		$("#myVideo").attr("src","p2p.php?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}else  if(window.location.href.indexOf("duowan.com")>0){
+		$("#myVideo").attr("src","https://jx.fuxing56.com/jiexi/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}else  if(window.location.href.indexOf("meipai.com")>0){
+		$("#myVideo").attr("src","https://jx.fuxing56.com/jiexi/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}else  if(window.location.href.indexOf("iqiyi.com")>0){
+		$("#myVideo").attr("src","https://api.tv920.com/jx/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}else  if(window.location.href.indexOf("mgtv.com")>0){
+		$("#myVideo").attr("src","https://api.tv920.com/jx/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+       	}else  if(window.location.href.indexOf("youku.com")>0){
+		$("#myVideo").attr("src","https://api.tv920.com/jx/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+        }else  if(window.location.href.indexOf("qq.com")>0){
+		$("#myVideo").attr("src","https://api.tv920.com/jx/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju");
+		}	
+		else{
+				$("#myVideo").attr("src","https://api.tv920.com/jx/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju"); 
+			}
+	})
+</script>
+<style>
+#lines .line{
+	color:#FFF;
+	}
+</style>
+<script type="text/javascript">
+if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+    var images=new Array("/ceshi/1.png");
+var img;//
+img=images[parseInt(Math.random()*(images.length))];
+var lianjie=new Array("#");
+document.writeln("<style>");
+document.writeln("#ad_888lm_footer_br {position:fixed;left:0px;bottom:0px;width:100%;z-index:9999999999;background:#000000;}");
+document.writeln("#ad_888lm_footer_br div {height:100%;margin:0px;display:inline-block;float:left;width:100%;text-align:center;}");
+document.writeln("#ad_888lm_footer_br div img {width:100%;height:100%;position:relative;top:5%;}");
+document.writeln("</style>");
+document.writeln("<section id='ad_888lm_footer_br'>");
+document.writeln("<div><a href='"+lianjie+"' target='_blank'><img src='"+img+"'></a></div>");
+document.writeln("</section>");
+} else {
+document.writeln("pause");
+}
+</script>
+<script>
+function playlist(a){
+    var MV=document.getElementById("myVideo");
+    MV.src=a.id;
+    MV.play();
+    }
+</script>
+<script>
+
+        function GetQueryString(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) return unescape(r[2]); return null;
+        }
+  /*      var url = GetQueryString('url');
+        if (url) {
+            $('#lines .line').click(function () {
+                var me = $(this);
+                $('#lines .line').removeClass('active');
+                me.addClass('active');
+                var line = me.data('url');
+                $('iframe').attr('src', line + url);
+            }).eq(0).click();
+        }*/
+    </script>
+  <script>function fuckyou(){
+window.close(); //关闭当前窗口(防抽)
+window.location="https://jx.fuxing56.com/ceshi/index.php";
+}
+function click(e) {
+    if (document.all) {
+        if (event.button==2||event.button==3) { 
+            alert("请勿盗链本站解析进行二次封装！");
+            oncontextmenu='return false';
+        }
+    }
+    if (document.layers) {
+        if (e.which == 3) {
+            oncontextmenu='return false';
+        }
+    }
+}
+if (document.layers) {
+    fuckyou();
+    document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+document.oncontextmenu = new Function("return false;")
+document.onkeydown =document.onkeyup = document.onkeypress=function(){ 
+    if(window.event.keyCode == 123) { 
+        fuckyou();
+        window.event.returnValue=false;
+        return(false); 
+    } 
+}
+
+</script>  
+
+
+
+</body>
+</html>
+  
+
+[INFO ] 2020-02-13 14:46:22 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-13 14:46:22 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-13 14:46:22 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-02-13 14:46:22 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

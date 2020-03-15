@@ -1,0 +1,114 @@
+[INFO ] 2020-02-14 13:12:19 [main] VipVideoServiceTest - Starting VipVideoServiceTest on chifandejiahuo.local with PID 6625 (started by liyi in /Users/liyi/Desktop/linglouyi/blog)
+[INFO ] 2020-02-14 13:12:19 [main] VipVideoServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-14 13:12:19 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-02-14 13:12:19 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 80ms. Found 2 repository interfaces.
+[INFO ] 2020-02-14 13:12:19 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-14 13:12:19 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-02-14 13:12:19 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-02-14 13:12:19 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-02-14 13:12:19 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-14 13:12:19 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-02-14 13:12:19 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-02-14 13:12:19 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-02-14 13:12:19 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-14 13:12:19 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-14 13:12:19 [main] VipVideoServiceTest - Started VipVideoServiceTest in 8.098 seconds (JVM running for 9.042)
+[INFO ] 2020-02-14 13:12:19 [main] VipVideoServiceTest - com.linglouyi.blog.service.VipVideoService@779228dc
+[INFO ] 2020-02-14 13:12:19 [main] c.l.blog.service.VipVideoService - <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<title>TV920解析:快速_稳定</title>
+<style type="text/css">
+body,html,#tv{background-color:black;padding: 0;margin: 0;width:100%;height:100%;color:#999;psotion:relative;overflow: hidden;}
+</style>
+</head>
+<body>
+<div id="tv" style="psotion:relative;"><iframe width="100%" height="100%" allowFullScreen="true" allowTransparency="true" frameborder="0" scrolling="no" src="/?url=https://www.iqiyi.com/v_19rw2if13k.html?vfrm=pcw_dianshiju"></iframe></div>
+<script type="text/javascript">
+var __encode ='sojson.com', _0xb483=["\x5F\x64\x65\x63\x6F\x64\x65","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x73\x6F\x6A\x73\x6F\x6E\x2E\x63\x6F\x6D\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x6F\x62\x66\x75\x73\x63\x61\x74\x6F\x72\x2E\x68\x74\x6D\x6C"];(function(_0xd642x1){_0xd642x1[_0xb483[0]]= _0xb483[1]})(window);var __Ox6d8fa=["\x3C\x73\x63\x72\x69\x70\x74\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x70\x69\x2E\x74\x76\x39\x32\x30\x2E\x63\x6F\x6D\x2F\x61\x70\x69\x2F\x61\x2E\x6A\x73\x22\x3E\x3C","\x2F\x73\x63\x72\x69\x70\x74\x3E","\x3C\x73\x63\x72\x69\x70\x74\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x70\x69\x2E\x74\x76\x39\x32\x30\x2E\x63\x6F\x6D\x2F\x61\x70\x69\x2F\x62\x2E\x6A\x73\x22\x3E\x3C","\x3C\x73\x63\x72\x69\x70\x74\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x70\x69\x2E\x74\x76\x39\x32\x30\x2E\x63\x6F\x6D\x2F\x61\x70\x69\x2F\x63\x2E\x6A\x73\x22\x3E\x3C","\x28\x5E\x7C\x20\x29","\x3D\x28\x5B\x5E\x3B\x5D\x2A\x29\x28\x3B\x7C\x24\x29","\x6D\x61\x74\x63\x68","\x63\x6F\x6F\x6B\x69\x65","\x2B","\x6A\x6F\x69\x6E","\x72\x61\x6E\x64\x6F\x6D","\x66\x6C\x6F\x6F\x72","\x6C\x65\x6E\x67\x74\x68","\x58\x43\x59\x5F\x63\x6F\x6F\x6B\x69\x65\x5F\x58\x43\x59","\x67\x65\x74\x5F\x63\x6F\x6F\x6B\x69\x65","\x61\x64\x73\x5F\x77\x65\x69\x67\x68\x74","\x67\x65\x74\x5F\x72\x61\x6E\x64\x6F\x6D","\x61\x64\x73\x5F\x63\x6F\x64\x65\x73","\x77\x72\x69\x74\x65","\x67\x65\x74\x54\x69\x6D\x65","\x61\x64\x73\x5F\x74\x69\x6D\x65\x72","\x73\x65\x74\x54\x69\x6D\x65","\x58\x43\x59\x5F\x63\x6F\x6F\x6B\x69\x65\x5F\x58\x43\x59\x3D\x31\x3B\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x3B\x70\x61\x74\x68\x3D\x2F\x3B","\x69\x6E\x69\x74"];var randoms={ads_codes:[__Ox6d8fa[0x0]+ __Ox6d8fa[0x1],__Ox6d8fa[0x2]+ __Ox6d8fa[0x1],__Ox6d8fa[0x3]+ __Ox6d8fa[0x1]],ads_weight:[6,6,6],ads_timer:20,get_cookie:function(_0xc193x2){var _0xc193x3=document[__Ox6d8fa[0x7]][__Ox6d8fa[0x6]]( new RegExp(__Ox6d8fa[0x4]+ _0xc193x2+ __Ox6d8fa[0x5]));if(_0xc193x3!= null){return decodeURI(_0xc193x3[0x2])};return null},get_random:function(_0xc193x4){var _0xc193x5=eval(_0xc193x4[__Ox6d8fa[0x9]](__Ox6d8fa[0x8]));var _0xc193x6=Math[__Ox6d8fa[0xb]](Math[__Ox6d8fa[0xa]]()* _0xc193x5);var _0xc193x7=0;var _0xc193x2=_0xc193x4[__Ox6d8fa[0xc]]- 1;for(var _0xc193x8 in _0xc193x4){_0xc193x7+= _0xc193x4[_0xc193x8];if(_0xc193x7>= _0xc193x6){_0xc193x2= _0xc193x8;break}};return _0xc193x2},init:function(){if(randoms[__Ox6d8fa[0xe]](__Ox6d8fa[0xd])){return};var _0xc193x9=randoms[__Ox6d8fa[0x10]](randoms[__Ox6d8fa[0xf]]);document[__Ox6d8fa[0x12]](randoms[__Ox6d8fa[0x11]][_0xc193x9]);var _0xc193xa= new Date();_0xc193xa[__Ox6d8fa[0x15]](_0xc193xa[__Ox6d8fa[0x13]]()+ randoms[__Ox6d8fa[0x14]]* 1000);document[__Ox6d8fa[0x7]]= __Ox6d8fa[0x16]+ _0xc193xa[__Ox6d8fa[0x17]]()+ __Ox6d8fa[0x18]}};randoms[__Ox6d8fa[0x19]]()
+</script>
+<script type="text/javascript">
+var __encode ='sojson.com', _0xb483=["\x5F\x64\x65\x63\x6F\x64\x65","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x73\x6F\x6A\x73\x6F\x6E\x2E\x63\x6F\x6D\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x6F\x62\x66\x75\x73\x63\x61\x74\x6F\x72\x2E\x68\x74\x6D\x6C"];(function(_0xd642x1){_0xd642x1[_0xb483[0]]= _0xb483[1]})(window);var __Ox6a521=["\x68\x74\x74\x70\x73\x3A","\x70\x72\x6F\x74\x6F\x63\x6F\x6C","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F","\x68\x74\x74\x70\x3A\x2F\x2F","\x25\x33\x43\x73\x70\x61\x6E\x20\x69\x64\x3D\x27\x63\x6E\x7A\x7A\x5F\x73\x74\x61\x74\x5F\x69\x63\x6F\x6E\x5F\x31\x32\x37\x37\x37\x31\x36\x30\x30\x39\x27\x25\x33\x45\x25\x33\x43\x2F\x73\x70\x61\x6E\x25\x33\x45\x25\x33\x43\x73\x63\x72\x69\x70\x74\x20\x73\x72\x63\x3D\x27","\x73\x35\x2E\x63\x6E\x7A\x7A\x2E\x63\x6F\x6D\x2F\x7A\x5F\x73\x74\x61\x74\x2E\x70\x68\x70\x25\x33\x46\x69\x64\x25\x33\x44\x31\x32\x37\x37\x37\x31\x36\x30\x30\x39\x27\x20\x74\x79\x70\x65\x3D\x27\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x27\x25\x33\x45\x25\x33\x43\x2F\x73\x63\x72\x69\x70\x74\x25\x33\x45","\x77\x72\x69\x74\x65"];var cnzz_protocol=((__Ox6a521[0x0]== document[__Ox6a521[0x2]][__Ox6a521[0x1]])?__Ox6a521[0x3]:__Ox6a521[0x4]);document[__Ox6a521[0x7]](unescape(__Ox6a521[0x5]+ cnzz_protocol+ __Ox6a521[0x6]))
+</script>
+</body>
+</html>
+[INFO ] 2020-02-14 13:12:19 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-14 13:12:19 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-14 13:12:19 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-02-14 13:12:19 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 2020-02-14 13:19:58 [main] VipVideoServiceTest - Starting VipVideoServiceTest on chifandejiahuo.local with PID 6711 (started by liyi in /Users/liyi/Desktop/linglouyi/blog)
+[INFO ] 2020-02-14 13:19:58 [main] VipVideoServiceTest - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-14 13:19:58 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[INFO ] 2020-02-14 13:19:58 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 81ms. Found 2 repository interfaces.
+[INFO ] 2020-02-14 13:19:58 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-14 13:19:58 [main] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2020-02-14 13:19:58 [main] org.hibernate.Version - HHH000412: Hibernate Core {5.4.8.Final}
+[INFO ] 2020-02-14 13:19:58 [main] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[INFO ] 2020-02-14 13:19:58 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2020-02-14 13:19:58 [main] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2020-02-14 13:19:58 [main] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2020-02-14 13:19:58 [main] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2020-02-14 13:19:58 [main] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-14 13:19:58 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-14 13:19:58 [main] VipVideoServiceTest - Started VipVideoServiceTest in 5.222 seconds (JVM running for 5.92)
+[INFO ] 2020-02-14 13:19:58 [main] VipVideoServiceTest - com.linglouyi.blog.service.VipVideoService@1f7336b2
+[INFO ] 2020-02-14 13:19:58 [main] c.l.blog.service.VipVideoService - <!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>TV920解析:快速+稳定</title>
+<style>
+* {
+	font-family: "Microsoft YaHei", SimSun, Verdana, Arial, Helvetica, sans-serif;
+	word-break: break-all;
+}
+.sp-header-container {
+	background-image: linear-gradient(to bottom, #563d7c 0, #6f5499 100%);
+	padding-top: 60px;
+	padding-bottom: 60px;
+	color: white;
+}
+.sp-header-logo {
+	padding-top: 25px;
+}
+.sp-p {
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	line-height: 24px;
+}
+.sp-url {
+	word-break: break-all;
+}
+
+.right li{list-style: none; float:left; font-size: 15px; color:#fff;margin-right: 15px;font-weight: bold}
+.right li a{color:#fff;}
+@media screen and (min-width:600px){
+	.right{position: absolute; top:-20px; right: 20px;}
+}
+@media screen and (min-width:300px) and (max-width:600px){
+	.right{position: absolute; top:-80%; right: 1%;}
+}
+</style>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#000000">
+<div id="loading" align="center" style="color:#888888"  >
+<strong ><br><br><br><br><br>
+<div class="sp-p" style="text-align: center;">
+<h4 style="color:#f00">请放到网站里使用</h4>
+<h4><strong>永久免费学习，不做任何收费</strong></h4>
+<h4>视频服务接口①：<a href="https://api.tv920.com/vip/?url=" target="_blank">https://api.tv920.com/vip/?url=</a>(带切换线路)</h4>
+<h4>视频服务接口②：<a href="https://api.tv920.com/jx/?url=" target="_blank">https://api.tv920.com/jx/?url=</a>(无切换线路)</h4>
+<h4 style="color:#f00">视频服务仅支持学习交流，勿用非法用途！本站不承担任何责任！</h4>
+<h4 style="color:#f00">-------------------------------------------------------------------------------------------------------------------------------</h4>
+<a href="https://www.tv920.com/" target="_blank"><i class="fa fa-vimeo-square"></i>TV920影视</a>&nbsp&nbsp&nbsp&nbsp
+<a href="/" target="_blank"><i class="fa fa-group"></i>TV920解析</a>
+</div>
+</strong>
+</div>
+</body>
+</html>
+[INFO ] 2020-02-14 13:19:58 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-14 13:19:58 [SpringContextShutdownHook] o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-02-14 13:19:58 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2020-02-14 13:19:58 [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
